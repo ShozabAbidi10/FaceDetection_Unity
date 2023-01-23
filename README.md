@@ -1,1 +1,1 @@
-# Real-Time Face Detection in Hololens2 using OpenCV for Unity Library
+# Real-Time Face Detection in Unity using OpenCVSharp Library
